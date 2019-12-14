@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ABCNewsAppProject.GamingPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Gaming News!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="StartAndExpand" />
+            <Button x:Name="Button_HomePage" 
+                Text="Reurn to home Page"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="EndAndExpand"
+                Clicked="Button_HomePage_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

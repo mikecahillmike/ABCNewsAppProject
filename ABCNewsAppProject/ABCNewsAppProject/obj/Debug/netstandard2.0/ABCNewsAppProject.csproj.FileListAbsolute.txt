@@ -1,0 +1,24 @@
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.csprojAssemblyReference.cache
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.csproj.CoreCompileInputs.cache
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.AssemblyInfoInputs.cache
+C:\Users\cahil\OneDrive - GMIT\App Design\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.AssemblyInfo.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\bin\Debug\netstandard2.0\ABCNewsAppProject.deps.json
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\bin\Debug\netstandard2.0\ABCNewsAppProject.dll
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\bin\Debug\netstandard2.0\ABCNewsAppProject.pdb
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.csprojAssemblyReference.cache
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.csproj.CoreCompileInputs.cache
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.AssemblyInfoInputs.cache
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.AssemblyInfo.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.dll
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\ABCNewsAppProject.pdb
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\PopularPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\SportsPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\CelebrityPage.xaml.g.cs
+C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\obj\Debug\netstandard2.0\GamingPage.xaml.g.cs

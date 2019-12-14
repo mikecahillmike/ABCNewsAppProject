@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ABCNewsAppProject"
+             x:Class="ABCNewsAppProject.MainPage">
+
+  
+    
+    <StackLayout>
+        <Button x:Name="Button_LogIn" 
+                Text="Sign In"
+                HorizontalOptions="Start"
+                Clicked="Button_LogIn_Clicked"/>
+        <Image Source="ABCNewsPic.jpg" />
+        <Label Text="Welcome to ABC news!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button x:Name="Button_PopularNews" 
+                Text="Popular News"
+                Clicked="Button_PopularNews_Clicked"/>
+        <Button x:Name="Button_GamingNews" 
+                Text="Gaming News"
+                Clicked="Button_GamingNews_Clicked"/>
+        <Button x:Name="Button_SportsNews" 
+                Text="Sprots News"
+                Clicked="Button_SportsNews_Clicked"/>
+        <Button x:Name="Button_CelebrityNews" 
+                Text="Celebrity News"
+                Clicked="Button_CelebrityNews_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>
