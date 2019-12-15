@@ -1,1 +1,1 @@
-C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\ABCNewsAppProject.UWP.csproj;x86
+C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\ABCNewsAppProject.UWP.csproj;x86

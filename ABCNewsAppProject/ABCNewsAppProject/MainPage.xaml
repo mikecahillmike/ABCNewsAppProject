@@ -4,30 +4,55 @@
              xmlns:local="clr-namespace:ABCNewsAppProject"
              x:Class="ABCNewsAppProject.MainPage">
 
-  
+
     
-    <StackLayout>
-        <Button x:Name="Button_LogIn" 
+
+    <AbsoluteLayout> 
+        <Button x:Name="Button_LogIn"
+                AbsoluteLayout.LayoutBounds="0.9, 0, 150, 45" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"
                 Text="Sign In"
+                BackgroundColor="Blue"
+                TextColor="White"
                 HorizontalOptions="Start"
                 Clicked="Button_LogIn_Clicked"/>
-        <Image Source="ABCNewsPic.jpg" />
+        <Image Source="ABCNewsPic.png" 
+               AbsoluteLayout.LayoutBounds=".5, .2, 175, 45" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Label Text="Welcome to ABC news!" 
-           HorizontalOptions="Center"
+           HorizontalOptions="Center" 
+           AbsoluteLayout.LayoutBounds=".5, .3, 175, 45" 
+           AbsoluteLayout.LayoutFlags="PositionProportional"
            VerticalOptions="CenterAndExpand" />
         <Button x:Name="Button_PopularNews" 
                 Text="Popular News"
+                AbsoluteLayout.LayoutBounds=".5, .4, 175, 45" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                BackgroundColor="OrangeRed"
+                BorderColor="Black"
                 Clicked="Button_PopularNews_Clicked"/>
         <Button x:Name="Button_GamingNews" 
                 Text="Gaming News"
+                AbsoluteLayout.LayoutBounds=".5, .5, 175, 45" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                BackgroundColor="OrangeRed"
+                BorderColor="Black"
                 Clicked="Button_GamingNews_Clicked"/>
         <Button x:Name="Button_SportsNews" 
-                Text="Sprots News"
+                Text="Sports News"
+                AbsoluteLayout.LayoutBounds=".5, .6, 175, 45" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                BackgroundColor="OrangeRed"
+                BorderColor="Black"
                 Clicked="Button_SportsNews_Clicked"/>
         <Button x:Name="Button_CelebrityNews" 
                 Text="Celebrity News"
+                AbsoluteLayout.LayoutBounds=".5, .7, 175, 45" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                BackgroundColor="OrangeRed"
+                BorderColor="Black"
                 Clicked="Button_CelebrityNews_Clicked"/>
 
-    </StackLayout>
+    </AbsoluteLayout>
 
 </ContentPage>

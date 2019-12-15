@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=c1b41c6a-0ca6-4ae1-bcc4-485c2df9b5a8</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>4ED523ED8EE5776AE4DDB1B16746459A5E31657825884D2C143312FADFCDA5C3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>29b80b08-bcec-471c-9427-27be8372d316_1.0.0.0_x86__s5xpdx7wsmmrj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>29b80b08-bcec-471c-9427-27be8372d316_s5xpdx7wsmmrj!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-12-11T16:29:59.580</Modified>
+      <Modified>2019-12-15T17:01:58.047</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\ABCNewsAppProject.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\ABCNewsAppProject.UWP.exe">
       <PackagePath>entrypoint\ABCNewsAppProject.UWP.exe</PackagePath>
-      <Modified>2019-12-11T16:29:58.486</Modified>
+      <Modified>2019-12-15T17:01:56.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cahil\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -710,164 +710,184 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-11-13T20:15:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\bin\Debug\netstandard2.0\ABCNewsAppProject.dll">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject\bin\Debug\netstandard2.0\ABCNewsAppProject.dll">
       <PackagePath>ABCNewsAppProject.dll</PackagePath>
-      <Modified>2019-12-11T16:29:34.810</Modified>
+      <Modified>2019-12-15T17:01:48.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\ABCNewsPic.png">
+      <PackagePath>ABCNewsPic.png</PackagePath>
+      <Modified>2019-12-14T20:50:03.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.200</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.207</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.251</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.255</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.299</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.348</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.350</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.353</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.400</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.401</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.403</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.405</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.448</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.451</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.453</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.493</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.495</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-12-10T23:17:24.500</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\GamingPic.png">
+      <PackagePath>GamingPic.png</PackagePath>
+      <Modified>2019-12-15T17:01:35.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\PopularPic.png">
+      <PackagePath>PopularPic.png</PackagePath>
+      <Modified>2019-12-15T16:56:07.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\CelebrityPic.jpg">
+      <PackagePath>CelebrityPic.jpg</PackagePath>
+      <Modified>2019-12-15T16:36:56.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\SportsPic.jpg">
+      <PackagePath>SportsPic.jpg</PackagePath>
+      <Modified>2019-12-15T15:49:26.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-12-10T23:17:24.542</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\ABCNewsAppProject.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\ABCNewsAppProject.UWP.xr.xml">
       <PackagePath>ABCNewsAppProject.UWP.xr.xml</PackagePath>
       <Modified>2019-12-11T16:21:45.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-12-11T16:29:58.246</Modified>
+      <Modified>2019-12-15T17:01:55.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-12-11T16:29:58.246</Modified>
+      <Modified>2019-12-15T17:01:55.864</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -877,13 +897,13 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-11-13T20:15:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-12-11T16:21:51.228</Modified>
+      <Modified>2019-12-15T17:01:57.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\cahil\OneDrive - GMIT\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\Core\ABCNewsAppProject.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\cahil\Desktop\ABCNewsAppProject\ABCNewsAppProject\ABCNewsAppProject.UWP\bin\x86\Debug\Core\ABCNewsAppProject.UWP.exe">
       <PackagePath>ABCNewsAppProject.UWP.exe</PackagePath>
-      <Modified>2019-12-11T16:29:59.571</Modified>
+      <Modified>2019-12-15T17:01:58.037</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

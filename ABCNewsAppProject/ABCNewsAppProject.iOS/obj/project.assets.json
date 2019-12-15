@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.iOS\\ABCNewsAppProject.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.iOS\\ABCNewsAppProject.iOS.csproj",
       "projectName": "ABCNewsAppProject.iOS",
-      "projectPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.iOS\\ABCNewsAppProject.iOS.csproj",
+      "projectPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.iOS\\ABCNewsAppProject.iOS.csproj",
       "packagesPath": "C:\\Users\\cahil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.iOS\\obj\\",
+      "outputPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj": {
-              "projectPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj"
+            "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj": {
+              "projectPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj"
             }
           }
         }

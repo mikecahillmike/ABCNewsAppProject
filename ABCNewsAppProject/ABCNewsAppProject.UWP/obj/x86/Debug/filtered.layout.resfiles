@@ -1,4 +1,5 @@
 WinMetadata\Windows.winmd
+ABCNewsPic.png
 Assets\LargeTile.scale-100.png
 Assets\LargeTile.scale-200.png
 Assets\LargeTile.scale-400.png
@@ -29,4 +30,8 @@ Assets\Wide310x150Logo.scale-400.png
 ABCNewsAppProject.UWP.xr.xml
 App.xbf
 MainPage.xbf
+CelebrityPic.jpg
+GamingPic.png
+PopularPic.png
 Properties\Default.rd.xml
+SportsPic.jpg

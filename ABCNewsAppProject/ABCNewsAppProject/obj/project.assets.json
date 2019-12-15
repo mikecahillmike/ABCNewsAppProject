@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj",
+      "projectUniqueName": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj",
       "projectName": "ABCNewsAppProject",
-      "projectPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj",
+      "projectPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj",
       "packagesPath": "C:\\Users\\cahil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\obj\\",
+      "outputPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.UWP\\ABCNewsAppProject.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.UWP\\ABCNewsAppProject.UWP.csproj",
       "projectName": "ABCNewsAppProject.UWP",
-      "projectPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.UWP\\ABCNewsAppProject.UWP.csproj",
+      "projectPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.UWP\\ABCNewsAppProject.UWP.csproj",
       "packagesPath": "C:\\Users\\cahil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.UWP\\obj\\",
+      "outputPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj": {
-              "projectPath": "C:\\Users\\cahil\\OneDrive - GMIT\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj"
+            "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj": {
+              "projectPath": "C:\\Users\\cahil\\Desktop\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject\\ABCNewsAppProject.csproj"
             }
           }
         }

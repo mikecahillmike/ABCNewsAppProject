@@ -21,11 +21,13 @@ namespace ABCNewsAppProject.Views
             User user = new User(Entry_Username.Text, Entry_Password.Text);
             if (user.BlankInput())
             {
-                DisplayAlert("Login", "Logged in", "");
+                DisplayAlert("Login", "Logged in", "Return to home");
+                Navigation.PushAsync(new MainPage());
             }
             else
             {
-                DisplayAlert("Login", "Log in  failed", "");
+                DisplayAlert("Login", "Log in  failed", "Return to home");
+                Navigation.PushAsync(new MainPage());
             }
         }
 	}
